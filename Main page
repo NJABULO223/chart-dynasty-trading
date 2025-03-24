@@ -66,10 +66,10 @@
         </div>
         
         <div class="service">
-            <h3>Algorithmic Trading Bots</h3>
-            <p>Automate your trades with AI-driven bots.</p>
+            <h3>Crypto Program Package</h3>
+            <p>Get access to Crypto Portfolio.</p>
             <p><strong>Price: $299/R5499-onceoff</strong></p>
-            <button onclick="window.location.href='payment-gateway.html?service=trading-bot'">Buy Now</button>
+            <button onclick="window.location.href='payment-gateway.html?service=Crypto-world'">Buy Now</button>
         </div>
     </div>
 </body>
